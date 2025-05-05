@@ -1,7 +1,7 @@
 # TikTok Claims Classification Project
 
 ## Overview
-This project simulates the work of a data professional working at TikTok tasked with creating a machine learning algorithm that will sort tiktoks into claims of fact or opinions.
+This project simulates the work of a data professional working at TikTok tasked with creating a supervised machine learning algorithm that will sort tiktoks into claims of fact or opinions.
 The company would like to streamline the process of content review since millions of tiktoks are reported monthly.
 The project's labs and executive summaries took place at the end of every module in the course, integrating the newly learned data analysis techniques into the next sequential step of the whole project.
 
@@ -12,7 +12,9 @@ The project's labs and executive summaries took place at the end of every module
 
 ## Data Sources
 
-The data file 'Tiktok Data.csv' was provided by Google and, for each tiktok, contains many columns indicating tiktok properties and engagement levels: video_duration_sec, video_like_count, video_share_count, 
+The data file 'Tiktok Data.csv' was provided by Google and, for each tiktok, contains many columns indicating tiktok properties and engagement levels. The following are the dependent and key independent variables for the project.
+* `Dependent`: claim_status
+* `Independent`: video_id, video_view_count, video_share_count, video_download_count, video_duration_sec
 
 
 ## How to Use

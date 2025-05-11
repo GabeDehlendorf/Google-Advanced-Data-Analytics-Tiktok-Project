@@ -19,7 +19,7 @@ The data file 'Tiktok Data.csv' was provided by Google and, for each tiktok, con
 
 ## How to Use
 
-The deliverables show increasingly more advanced data analysis topics as the course continued on. The latter labs and deliverables apply concepts form the previous ones, with the latter labs providing the bulk of the project's work.
+The deliverables show increasingly more advanced data analysis topics as the course continued on. The latter labs and deliverables apply the previously learned concepts with the latter labs providing the bulk of the project's work.
 
 ## Author
 
